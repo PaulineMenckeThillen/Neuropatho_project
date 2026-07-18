@@ -1,5 +1,5 @@
 
-%% --- 4. INTELLIGENT SENSITIVITY FUNCTION (V11 Logic) ---
+%% --- INTELLIGENT SENSITIVITY FUNCTION ---
 function [statsTable, reportImg] = Image_analysis_AEC(img)
     % 1. Noise Filter
     img_filt = cat(3, medfilt2(img(:,:,1), [3 3]), ...
