@@ -1,8 +1,27 @@
 clc; clear; close all;
 
-%% --- 1. SETTINGS ---
-inputRoot = 'D:\QuPathExport\tiles'; 
-outputCSV = fullfile(inputRoot, 'AEC_Analysis_Results.csv');
+%% --- 1. SETTINGS & PATH CONFIGURATION ---
+% Configurable input directory for exported QuPath tiles
+% Can be overridden by setting the environment variable QUPATH_AEC_TILES
+envTiles = getenv('QUPATH_AEC_TILES');
+if ~isempty(envTiles) && exist(envTiles, 'dir')
+    inputRoot = envTiles;
+elseif exist(fullfile(pwd, 'tiles'), 'dir')
+    inputRoot = fullfile(pwd, 'tiles');
+elseif exist(fullfile(pwd, 'source_data', 'tiles_aec'), 'dir')
+    inputRoot = fullfile(pwd, 'source_data', 'tiles_aec');
+elseif exist('D:\QuPathExport\tiles', 'dir')
+    inputRoot = 'D:\QuPathExport\tiles';
+else
+    inputRoot = fullfile(pwd, 'tiles');
+end
+
+% Default output CSV location in source_data/image_analysis
+outputDir = fullfile(pwd, 'source_data', 'image_analysis');
+if ~exist(outputDir, 'dir')
+    mkdir(outputDir);
+end
+outputCSV = fullfile(outputDir, 'AEC_Analysis_Results.csv');
 
 % Filter for folders
 dirFolders = dir(fullfile(inputRoot, '*AEC*'));

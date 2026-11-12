@@ -1,8 +1,27 @@
 clc; clear; close all;
 
-%% --- 1. SETTINGS ---
-inputRoot = 'D:\QuPathExportGFAP\tiles'; 
-outputCSV = fullfile(inputRoot, 'GFAP_DAB_Analysis_Results.csv');
+%% --- 1. SETTINGS & PATH CONFIGURATION ---
+% Configurable input directory for exported QuPath tiles
+% Can be overridden by setting the environment variable QUPATH_GFAP_TILES
+envTiles = getenv('QUPATH_GFAP_TILES');
+if ~isempty(envTiles) && exist(envTiles, 'dir')
+    inputRoot = envTiles;
+elseif exist(fullfile(pwd, 'tiles_gfap'), 'dir')
+    inputRoot = fullfile(pwd, 'tiles_gfap');
+elseif exist(fullfile(pwd, 'source_data', 'tiles_gfap'), 'dir')
+    inputRoot = fullfile(pwd, 'source_data', 'tiles_gfap');
+elseif exist('D:\QuPathExportGFAP\tiles', 'dir')
+    inputRoot = 'D:\QuPathExportGFAP\tiles';
+else
+    inputRoot = fullfile(pwd, 'tiles_gfap');
+end
+
+% Default output CSV location in source_data/image_analysis
+outputDir = fullfile(pwd, 'source_data', 'image_analysis');
+if ~exist(outputDir, 'dir')
+    mkdir(outputDir);
+end
+outputCSV = fullfile(outputDir, 'GFAP_DAB_Analysis_Results.csv');
 
 % Filter for target folders containing GFAP
 dirFolders = dir(fullfile(inputRoot, '*GFAP*'));

@@ -1,0 +1,102 @@
+Sample_ID,IDH_status,Histology,WHO_Grade,Treatment_Prior,Age,Resection_Status,PFS_months,OS_months,PFS_months_clean,OS_months_clean,Age_clean
+1201_NMR,IDH1-wt,Glioblastoma,IV,Untreated,50,1,12,18,12.0,18.0,50.0
+1202_NMR,IDH1-wt,Glioblastoma,IV,Untreated,78,1,13,19,13.0,19.0,78.0
+1203_NMR,IDH1-wt,Glioblastoma,IV,Untreated,65,1,3,13,3.0,13.0,65.0
+1204_NMR,IDH1-wt,Glioblastoma,IV,Untreated,49,1,11,no information,11.0,,49.0
+1205_NMR,IDH1-wt,Glioblastoma,IV,Untreated,45,1,6,10,6.0,10.0,45.0
+1206_NMR,IDH1-wt,Glioblastoma,IV,Untreated,70,1,7,15,7.0,15.0,70.0
+1207_NMR,IDH1-wt,Glioblastoma,IV,Untreated,45,1,4,28,4.0,28.0,45.0
+1208_NMR,IDH1-wt,Glioblastoma,IV,Untreated,55,1,11,35,11.0,35.0,55.0
+1209_NMR,IDH1-wt,Glioblastoma,IV,Untreated,70,1,4,12,4.0,12.0,70.0
+1210_NMR,IDH1-wt,Astrocytoma,III,Untreated,49,1,6,18,6.0,18.0,49.0
+1211_NMR,IDH1-wt,Glioblastoma,IV,Untreated,47,1,4,37,4.0,37.0,47.0
+1214_NMR,IDH1-wt,Glioblastoma,IV,Untreated,48,1,> 53,,53.0,,48.0
+1215_NMR,IDH1-wt,Glioblastoma,IV,Untreated,58,1,14,20,14.0,20.0,58.0
+1218_NMR,IDH1-wt,Glioblastoma,IV,Untreated,71,1,4,12,4.0,12.0,71.0
+1219_NMR,IDH1-wt,Glioblastoma,IV,Untreated,72,1,12,no information,12.0,,72.0
+1220_NMR,IDH1-wt,Glioblastoma,IV,Untreated,80,1,6,13,6.0,13.0,80.0
+1221_NMR,IDH1-wt,Astrocytoma,II,Untreated,37,1,no information,no information,,,37.0
+1222_NMR,IDH1-wt,Glioblastoma,IV,Untreated,77,1,no information,no information,,,77.0
+1224_NMR,IDH1-wt,Glioblastoma,IV,Untreated,70,1,6,13,6.0,13.0,70.0
+1225_NMR,IDH1-wt,Glioblastoma,IV,Untreated,71,1,no information,no information,,,71.0
+1226_NMR,IDH1-wt,Astrocytoma,II,Untreated,40,1,> 36,,36.0,,40.0
+1227_NMR,IDH1-wt,Glioblastoma,IV,Untreated,50,1,16,31,16.0,31.0,50.0
+1228_NMR,IDH1-wt,Glioblastoma,IV,Untreated,77,1,no information,no information,,,77.0
+1401_NMR,IDH1-mut,Glioblastoma,IV,Untreated,33,1,56,,56.0,,33.0
+1402_NMR,IDH1-mut,Glioblastoma,IV,Untreated,34,1,> 56,,56.0,,34.0
+1403_NMR,IDH1-mut,Glioblastoma,IV,Untreated,40,1,> 55,,55.0,,40.0
+1404_NMR,IDH1-mut,Astrocytoma,III,Untreated,40,1,> 52,,52.0,,40.0
+1405_NMR,IDH1-mut,Astrocytoma,III,Untreated,45,1,36,> 57,36.0,57.0,45.0
+1406_NMR,IDH1-mut,Astrocytoma,III,Untreated,32,1,> 60,,60.0,,32.0
+1407_NMR,IDH1-mut,Glioblastoma,IV,Untreated,37,1,31,> 63,31.0,63.0,37.0
+1408_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,56,1,11,> 27,11.0,27.0,56.0
+1409_NMR,IDH1-mut,Glioblastoma,IV,Untreated,48,1,no information,no information,,,48.0
+1410_NMR,IDH1-mut,Glioblastoma,IV,Untreated,34,1,> 48,no information,48.0,,34.0
+1411_NMR,IDH1-mut,Astrocytoma,III,Untreated,34,1,15,> 50,15.0,50.0,34.0
+1412_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,71,1,> 52,,52.0,,71.0
+1414_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,32,1,> 48,,48.0,,32.0
+1416_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,57,1,> 39,,39.0,,57.0
+1417_NMR,IDH1-mut,Astrocytoma,II,Untreated,63,1,> 57,no information,57.0,,63.0
+1418_NMR,IDH1-mut,Astrocytoma,II,Untreated,45,1,no information,no information,,,45.0
+1419_NMR,IDH1-mut,Astrocytoma,II,Untreated,36,1,> 40,,40.0,,36.0
+1420_NMR,IDH1-mut,Astrocytoma,II,Untreated,62,1,41,> 52,41.0,52.0,62.0
+1424_NMR,IDH1-mut,Astrocytoma,II,Untreated,39,1,76,> 88,76.0,88.0,39.0
+1427_NMR,IDH1-mut,Glioblastoma,IV,Untreated,34,1,no information,no information,,,34.0
+1429_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,47,1,> 36,,36.0,,47.0
+1430_NMR,IDH1-mut,Astrocytoma,III,Untreated,28,1,15,no information,15.0,,28.0
+1506_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,66,1,73,103,73.0,103.0,66.0
+1534_NMR,IDH1-wt,Astrocytoma,III,RT,51,1,14,18,14.0,18.0,51.0
+1742_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,36,1,68,152,68.0,152.0,36.0
+1774_NMR,IDH1-wt,Astrocytoma,III,RT,52,2,14,18,14.0,18.0,52.0
+1991_NMR,IDH1-mut,Oligodendroglioma,III,RT,58,1,60,95,60.0,95.0,58.0
+2065_NMR,IDH1-mut,Oligodendroglioma,III,RT,36,1,56,221,56.0,221.0,36.0
+2252_NMR,IDH1-wt,Astrocytoma,III,RT -> PCV,47,1,16,18,16.0,18.0,47.0
+2287_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,29,1,23,175,23.0,175.0,29.0
+2396_NMR,IDH1-mut,Oligodendroglioma,III,RT -> TMZ,33,1,30,52,30.0,52.0,33.0
+2581_NMR,IDH1-wt,Astrocytoma,III,RT -> PCV,48,2,16,18,16.0,18.0,48.0
+2686_NMR,IDH1-mut,Oligodendroglioma,III,Untreated,71,2,73,103,73.0,103.0,71.0
+2726_NMR,IDH1-mut,Oligodendroglioma,III,Untreated,43,1,25,156,25.0,156.0,43.0
+2754_NMR,IDH1-mut,Oligodendroglioma,III,Untreated,31,2,23,175,23.0,175.0,31.0
+2875_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,41,2,68,152,68.0,152.0,41.0
+2913_NMR,IDH1-mut,Oligodendroglioma,III,RT -> TMZ,35,2,30,52,30.0,52.0,35.0
+2930_NMR,IDH1-mut,Oligodendroglioma,III,RT,63,2,60,95,60.0,95.0,63.0
+2996_NMR,IDH1-mut,Oligodendroglioma,III,RT,40,2,56,221,56.0,221.0,40.0
+3071_NMR,IDH1-mut,Astrocytoma,III,RT,35,1,66,73,66.0,73.0,35.0
+3088_NMR,IDH1-mut,Oligodendroglioma,III,Untreated,45,2,25,156,25.0,156.0,45.0
+3186_NMR,IDH1-mut,Astrocytoma,III,RT,29,1,60,116,60.0,116.0,29.0
+3346_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,31,1,114,133,114.0,133.0,31.0
+3509_NMR,IDH1-mut,Astrocytoma,II,Untreated,37,1,31,83,31.0,83.0,37.0
+3637_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,47,1,78,110,78.0,110.0,47.0
+3648_NMR,IDH1-mut,Astrocytoma,III,RT -> TMZ,36,1,54,110,54.0,110.0,36.0
+3663_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,33,1,54,97,54.0,97.0,33.0
+4133_NMR,IDH1-mut,Astrocytoma,III,Untreated,39,2,31,83,31.0,83.0,39.0
+4218_NMR,IDH1-mut,Astrocytoma,III,RT,39,2,66,73,66.0,73.0,39.0
+4306_NMR,IDH1-mut,Astrocytoma,III,RT,34,2,60,116,60.0,116.0,34.0
+4589_NMR,IDH1-mut,Astrocytoma,III,RT,24,1,42,68,42.0,68.0,24.0
+4942_NMR,IDH1-mut,Astrocytoma,III,RT -> TMZ,40,2,54,110,54.0,110.0,40.0
+4943_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,38,2,54,97,54.0,97.0,38.0
+5086_NMR,IDH1-mut,Oligodendroglioma,III,RT -> PC,57,1,16,23,16.0,23.0,57.0
+5096_NMR,IDH1-mut,Oligodendroglioma,II,Untreated,45,1,32,48,32.0,48.0,45.0
+5120_NMR,IDH1-mut,Astrocytoma,II,Untreated,22,1,13,45,13.0,45.0,22.0
+5446_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,53,2,78,110,78.0,110.0,53.0
+5475_NMR,IDH1-mut,Astrocytoma,III,Untreated,23,2,13,45,13.0,45.0,23.0
+5527_NMR,IDH1-mut,Oligodendroglioma,III,RT -> PC,58,2,16,23,16.0,23.0,58.0
+5647_NMR,IDH1-mut,Astrocytoma,III,RT,37,2,42,68,42.0,68.0,37.0
+5837_NMR,IDH1-mut,Oligodendroglioma,III,TMZ,40,2,114,133,114.0,133.0,40.0
+5939_NMR,IDH1-mut,Oligodendroglioma,III,Untreated,48,2,32,48,32.0,48.0,48.0
+T01_NMR,IDH1-mut,Astrocytoma,II,Untreated,39,1,76,> 86,76.0,86.0,39.0
+T02_NMR,IDH1-mut,Astrocytoma,II,Untreated,39,2,76,> 84,76.0,84.0,39.0
+T03_NMR,IDH1-mut,Astrocytoma,III,RT -> TMZ,39,1,10,> 74,10.0,74.0,39.0
+T04_NMR,IDH1-mut,Astrocytoma,III,RT -> TMZ,39,2,10,> 72,10.0,72.0,39.0
+T05_NMR,IDH1-wt,Astrocytoma,III,Untreated,45,1,35,> 51,35.0,51.0,45.0
+T06_NMR,IDH1-wt,Astrocytoma,III,Untreated,45,2,no information,no information,,,45.0
+T07_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,31,1,9,30,9.0,30.0,31.0
+T08_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,31,2,9,30,9.0,30.0,31.0
+T09_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,39,1,5,39,5.0,39.0,39.0
+T10_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,39,2,5,39,5.0,39.0,39.0
+T11_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,54,1,6,12,6.0,12.0,54.0
+T12_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,54,2,6,12,6.0,12.0,54.0
+T13_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,53,1,9,18,9.0,18.0,53.0
+T14_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,53,2,9,18,9.0,18.0,53.0
+T15_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,50,1,9,20,9.0,20.0,50.0
+T16_NMR,IDH1-wt,Glioblastoma,IV,RT/TMZ -> TMZ,50,2,9,20,9.0,20.0,50.0

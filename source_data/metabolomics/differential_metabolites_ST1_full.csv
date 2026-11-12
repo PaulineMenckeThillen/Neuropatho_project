@@ -1,0 +1,80 @@
+Comparison,Group_A,Group_B,Metabolite,AUC,P_value,Log2_FC,Direction,-Log10_Pval
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),2-Hydroxyglutarate,0.923,8.95e-10,6.59,Elevated in IDH-mut,9.048176964684089
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),sn-Glycero-3-phosphocholine,0.895,5.95e-11,2.96,Elevated in IDH-mut,10.22548303427145
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),scyllo-Inositol,0.833,0.000897,2.96,Elevated in IDH-mut,3.047207556955908
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Alanine,0.804,6.77e-07,0.37,Elevated in IDH-mut,6.169411331314856
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),myo-Inositol,0.77,0.02,2.57,Elevated in IDH-mut,1.6989700043360187
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Hypotaurine,0.758,7.3e-05,-0.34,Decreased in IDH-mut,4.136677139879544
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Sarcosine,0.729,0.002,3.47,Elevated in IDH-mut,2.6989700043360187
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Cystathionine,0.698,0.004,4.24,Elevated in IDH-mut,2.3979400086720375
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Glutathione,0.693,0.000272,1.39,Elevated in IDH-mut,3.5654310959658013
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Mannitol,0.691,0.000525,0.78,Elevated in IDH-mut,3.279840696594043
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),O-Acetylcholine,0.689,0.002,0.81,Elevated in IDH-mut,2.6989700043360187
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Serine,0.686,0.000796,0.82,Elevated in IDH-mut,3.099086932262331
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),O-Phosphocholine,0.683,0.011,0.87,Elevated in IDH-mut,1.958607314841775
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Creatine phosphate,0.678,0.333,2.3,Elevated in IDH-mut,0.4775557664936801
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Succinate,0.665,0.008,0.98,Elevated in IDH-mut,2.0969100130080562
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Threonine,0.664,0.003,1.03,Elevated in IDH-mut,2.5228787452803374
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Glycine,0.658,0.004,0.87,Elevated in IDH-mut,2.3979400086720375
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Creatine,0.658,0.036,1.88,Elevated in IDH-mut,1.4436974992327127
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Glutamate,0.653,0.04,1.01,Elevated in IDH-mut,1.3979400086720375
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Carnitine,0.649,0.002,1.83,Elevated in IDH-mut,2.6989700043360187
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Aspartate,0.648,0.033,-0.95,Decreased in IDH-mut,1.4814860601221125
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Methionine,0.645,0.035,1.26,Elevated in IDH-mut,1.4559319556497243
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Histidine,0.643,0.143,2.43,Elevated in IDH-mut,0.8446639625349383
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Taurine,0.629,0.038,-1.76,Decreased in IDH-mut,1.4202164033831899
+Comp_I (IDH1-mut vs IDH1-wt),IDH1-mut (n=62),IDH1-wt (n=39),Phenylalanine,0.615,0.047,-0.98,Decreased in IDH-mut,1.3279021420642825
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),2-Hydroxyglutarate,0.88,0.003,3.47,Elevated in IDH-mut,2.5228787452803374
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),Cystathionine,0.876,0.052,3.72,Elevated in IDH-mut,1.2839966563652008
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),sn-Glycero-3-phosphocholine,0.838,0.001,1.36,Elevated in IDH-mut,3.0
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),Betaine,0.782,0.007,-0.88,Decreased in IDH-mut,2.154901959985743
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),Histamine,0.774,0.074,1.35,Elevated in IDH-mut,1.1307682802690238
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),Succinate,0.764,0.025,3.1,Elevated in IDH-mut,1.6020599913279623
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),GTP,0.764,0.064,5.34,Elevated in IDH-mut,1.193820026016113
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),4-Aminobutyrate,0.758,0.07,4.78,Elevated in IDH-mut,1.154901959985743
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),N-Acetylaspartate,0.753,0.092,5.23,Elevated in IDH-mut,1.0362121726544447
+Comp_II (IDH1-mut Astro vs IDH1-wt Astro),IDH1-mut Astro (n=26),IDH1-wt Astro (n=9),Fumarate,0.736,0.028,4.68,Elevated in IDH-mut,1.5528419686577808
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),Glutamate,0.99,7.3e-05,-3.55,Decreased in IDH-mut GB,4.136677139879544
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),myo-Inositol,0.924,4.25e-06,-0.43,Decreased in IDH-mut GB,5.371611069949688
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),sn-Glycero-3-phosphocholine,0.905,1.32e-06,-0.62,Decreased in IDH-mut GB,5.87942606879415
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),scyllo-Inositol,0.876,0.000557,-1.03,Decreased in IDH-mut GB,3.254144804826271
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),Citrate,0.805,0.061,-3.51,Decreased in IDH-mut GB,1.214670164989233
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),AMP,0.8,0.012,2.02,Elevated in IDH-mut GB,1.9208187539523751
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),Creatine,0.779,0.008,-1.46,Decreased in IDH-mut GB,2.0969100130080562
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),Alanine,0.776,0.038,-3.25,Decreased in IDH-mut GB,1.4202164033831899
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),Taurine,0.774,0.03,-3.46,Decreased in IDH-mut GB,1.5228787452803376
+Comp_III (IDH1-mut GB vs IDH1-wt GB),IDH1-mut GB (n=7),IDH1-wt GB (n=30),Fumarate,0.712,0.056,-3.2,Decreased in IDH-mut GB,1.2518119729937995
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),Carnitine,0.786,0.001,-3.95,Elevated in Oligo,3.0
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),O-Phosphoethanolamine,0.744,0.005,-1.99,Elevated in Oligo,2.3010299956639813
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),Ethanolamine,0.728,0.032,-2.37,Elevated in Oligo,1.494850021680094
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),scyllo-Inositol,0.707,0.021,-2.12,Elevated in Oligo,1.6777807052660807
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),Histidine,0.696,0.007,-0.77,Elevated in Oligo,2.154901959985743
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),Sarcosine,0.695,0.014,-3.0,Elevated in Oligo,1.853871964321762
+Comp_IV (IDH1-mut Astro vs IDH1-mut Oligo),IDH1-mut Astro (n=26),IDH1-mut Oligo (n=29),Citrate,0.674,0.035,-0.77,Elevated in Oligo,1.4559319556497243
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Citrate,0.951,0.004,5.9,Elevated in GB,2.3979400086720375
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Histamine,0.901,0.008,5.74,Elevated in GB,2.0969100130080562
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Glutathione,0.896,0.000247,2.72,Elevated in GB,3.607303046740334
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Formate,0.879,0.015,5.06,Elevated in GB,1.8239087409443189
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Uridine,0.868,0.002,5.5,Elevated in GB,2.6989700043360187
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),AMP,0.863,0.000346,-1.31,Elevated in Astro,3.4609239012072233
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Acetate,0.857,0.062,4.8,Elevated in GB,1.207608310501746
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Histidine,0.846,0.006,5.51,Elevated in GB,2.221848749616356
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Glutamate,0.83,0.023,4.66,Elevated in GB,1.6382721639824072
+Comp_V (IDH1-mut GB vs IDH1-mut Astro),IDH1-mut GB (n=7),IDH1-mut Astro (n=26),Taurine,0.819,0.003,5.18,Elevated in GB,2.5228787452803374
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Sarcosine,0.966,0.000723,-8.01,Elevated in Oligo,3.140861702705469
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Glutamate,0.926,0.004,-6.26,Elevated in Oligo,2.3979400086720375
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Taurine,0.906,0.02,-6.94,Elevated in Oligo,1.6989700043360187
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),AMP,0.892,9.62e-05,0.83,Elevated in GB,4.016824927962187
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Uridine,0.892,0.000416,-7.83,Elevated in Oligo,3.3809066693732572
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Phenylalanine,0.887,1.57e-05,-3.84,Elevated in Oligo,4.804100347590766
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Lactate,0.887,0.00016,-4.31,Elevated in Oligo,3.795880017344075
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Glutathione,0.887,0.000805,-3.77,Elevated in Oligo,3.0942041196321313
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Citrate,0.872,0.019,-6.66,Elevated in Oligo,1.7212463990471711
+Comp_VI (IDH1-mut GB vs IDH1-mut Oligo),IDH1-mut GB (n=7),IDH1-mut Oligo (n=29),Succinate,0.852,0.001,-4.33,Elevated in Oligo,3.0
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),scyllo-Inositol,0.785,4.86e-05,2.89,Elevated in Astro,4.313363730737707
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),4-Aminobutyrate,0.778,0.001,2.88,Elevated in Astro,3.0
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),Alanine,0.778,0.028,0.18,Elevated in Astro,1.5528419686577808
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),Betaine,0.774,0.227,2.37,Elevated in Astro,0.6439741428068773
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),myo-Inositol,0.722,0.000754,2.61,Elevated in Astro,3.122628654130226
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),Creatine,0.711,0.006,2.03,Elevated in Astro,2.221848749616356
+Comp_VII (IDH1-wt Astro vs IDH1-wt GB),IDH1-wt Astro (n=9),IDH1-wt GB (n=30),Sarcosine,0.696,0.04,3.3,Elevated in Astro,1.3979400086720375
